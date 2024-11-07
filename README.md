@@ -28,7 +28,7 @@
    git clone https://github.com/Rambeboy/BUMS.git && cd BUMS
    ```
 
-2. Install Depedencies
+2. Install Dependencies
    ```bash
    npm install
    ```
@@ -51,7 +51,10 @@ socks5://username:password@hostname:port
 
 In the `data.txt` file, you need to have the following format:
 
-query_id=xxx or user=xxxx
+```bash
+query_id=xxx
+user=xxxx
+```
 
 ![Capture](https://github.com/user-attachments/assets/6db0b3ed-86fe-4cf7-b9c3-9dde4c0f2efb)
 
