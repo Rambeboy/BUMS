@@ -69,12 +69,13 @@ This configuration option of `config.json`
 
 ---
 
-# RUN TOOL
-1. **No Proxy**
+# RUN BOT
+
+1. No Proxy
    ```bash
    node main.js
    ```
-2. **Proxy**
+2. Proxy
    ```bash
    node bums-proxy.js
    ```
