@@ -38,7 +38,7 @@ For those using multiple accounts, it's recommended to use a proxy (if using onl
 
 ---
 
-## PROXY FORMAT:
+## PROXY FORMAT
 
 ```bash
 http://username:passwoord@hostname:port
