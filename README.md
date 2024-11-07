@@ -6,10 +6,10 @@
 
 ## BOT FEATURE
 
-✔️ Auto tap
-✔️ Auto daily
-✔️ Auto task
-✔️ Auto upgrade
+- Auto tap
+- Auto daily
+- Auto task
+- Auto upgrade
 
 ---
 
