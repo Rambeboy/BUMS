@@ -15,7 +15,7 @@
 
 ## REQUIREMENTS
 
-- Nodejs
+- Node JS
 - Git
 
 
